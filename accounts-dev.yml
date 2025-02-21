@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: "{cipher}245ddbf9b081eadea40652b4e03e446d5a862742237d133b8b557ca92fc0c9d683af169304defb6a9c43788d9ecb6434d47c8cda73e49ba866300fc0884d7a75eeef1f2d924899b38a995edafb05bd4a"
+    username: "{cipher}539ea2fce34324e7deba9cd6ebf751a07c3d2f77912ef6328b237b1346b6eeed"
+    password: "{cipher}687154933baf400bced59a4ede26d3c6b4979e23cf545dcf0c2196e83dcb6961"
